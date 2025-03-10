@@ -1,0 +1,6 @@
+[[Speed]]
+[[Burrow Speed]]
+[[Climb Speed]]
+[[Exploration Speed]]
+[[Fly Speed]]
+[[Swim Speed]]
