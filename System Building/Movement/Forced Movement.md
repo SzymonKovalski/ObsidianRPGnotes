@@ -1,3 +1,0 @@
-[[Pull]]
-[[Push]]
-[[Slide]]
